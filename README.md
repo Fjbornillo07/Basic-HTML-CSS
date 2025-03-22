@@ -1,1 +1,1 @@
-This folder is sample for creating a web page using basic HTML tags and element toghether with the CSS.
+This folder is sample for creating a web page using basic HTML tags and element together with the CSS rule.
